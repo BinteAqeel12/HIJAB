@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family:  sans-serif;
+}
+
+nav{
+    display: flex;
+}
+.nav-links li{
+    display: inline;
+   
+}
+
+li a{
+     text-decoration: none;
+}
+
